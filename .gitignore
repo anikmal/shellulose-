@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+beam analysis of isolated cylindrical shell.depend
+beam analysis of isolated cylindrical shell.cbp
+beam analysis of isolated cylindrical shell.layout
