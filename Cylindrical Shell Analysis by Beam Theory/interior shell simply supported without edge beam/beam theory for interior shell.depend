@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465367402 source:c:\users\user\desktop\c prog\beam theory for interior shell\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
